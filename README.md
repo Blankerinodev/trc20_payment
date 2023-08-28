@@ -27,7 +27,7 @@
 
 1. Клонируйте репозиторий:
 ```
-git clone [ссылка на ваш репозиторий]
+git clone https://github.com/Blankerinodev/trc20_payment.git
 ```
 
 2. Установите необходимые зависимости:
